@@ -1,0 +1,24 @@
+body{
+    background:skyblue;
+    text-align:center;  background:url(https://image.freepik.com/free-photo/gaming-dice-color-background_127657-16571.jpg);
+    background-size: cover;
+  }
+  label,button,input{
+    font-size:2em;
+    text-align:center;
+    border-radius:20px;
+  }
+  input{
+    width:100px;
+  }
+  button:hover{
+    box-shadow:0 0 20px 0 black;
+  }
+  div{
+    font-size:2em;
+    text-shadow: 0 0 3px black;
+  }
+  button{
+    width:300px;
+    
+  }
